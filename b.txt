@@ -1,2 +1,7 @@
 This is b.txt
 Edited in bike branch
+<<<<<<< HEAD
+=======
+>>>>>>> bike
+Edited in car branch
+>>>>>>> car
